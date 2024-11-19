@@ -17,3 +17,7 @@ Este projeto fornece uma API para análise e gestão de dados de compras de vinh
 ## Endpoints da API
 A API está documentada e disponível para testes em:  
 **[http://localhost:8080/swagger-ui.html](http://localhost:8080/swagger-ui.html)**
+
+## Collection para postman
+
+teste.postman_collection.json
